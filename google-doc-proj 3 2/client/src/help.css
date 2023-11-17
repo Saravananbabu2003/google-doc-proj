@@ -1,0 +1,31 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #F3F3F3;
+    margin: 0;
+  }
+
+
+  h1{
+    
+  }
+
+  input{
+    padding: 10px 170px 10px 10px;
+  }
+ 
+
+.a{
+  padding: 10px;
+
+}
+
+.b{
+   padding: 10px;
+}
+
+strong{
+    color:blue;
+}
